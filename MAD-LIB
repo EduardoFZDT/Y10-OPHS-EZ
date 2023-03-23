@@ -1,0 +1,10 @@
+print("Welcome to mad-lib")
+print("please answer the following questions")
+print("")
+
+adjective1 = input("Enter an adjective")
+nationality1 =input("Enter a nationality")
+person1 = input("Enter a noun")
+
+print("")
+print("Here is your MAD-LIB")

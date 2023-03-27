@@ -1,10 +1,18 @@
-print("Welcome to mad-lib")
+print("Welcome to MAD-LIB")
 print("please answer the following questions")
 print("")
 
 adjective1 = input("Enter an adjective")
-nationality1 =input("Enter a nationality")
 person1 = input("Enter a noun")
+nationality1 = input("Enter a nationality")
+food1 = input("Enter a food")
+verb1= input("Enter a verb")
+
 
 print("")
 print("Here is your MAD-LIB")
+print("")
+print("Footbal was invented by", adjective1, person1 , "who is",nationality1, "which is located in Oceania")
+print("Then", adjective1, person1, "decided to create a new food named", food1)
+print("The", food1,"was so bad that nobody wanted to eat it even", adjective1, person1, "that he decided to", verb1, "everyobody")
+print("and finally nobody played footbal again")

@@ -1,0 +1,6 @@
+Skycolour = "Blue"
+
+if Skycolour == ("Blue"):
+  print("The sky is blue today")
+  
+print("Good bye!")  

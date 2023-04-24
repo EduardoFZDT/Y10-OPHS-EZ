@@ -1,0 +1,9 @@
+number1 = str(input("Write any number:"))
+number2 = str(input("Write a second number:"))
+
+if number1 >= number2:
+  print(number1, number2)
+else: 
+    print(number2, number1)
+
+

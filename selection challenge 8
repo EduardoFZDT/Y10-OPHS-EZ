@@ -1,0 +1,13 @@
+number1 = int(input("enter the following number 1, 2 or 3:"))
+
+if number1 == 1:
+  print("thank you")
+  
+if number1 == 2:
+  print("well done, youre so smart")
+  
+if number1 == 3:
+  print("Amazing, you are so good at this")
+  
+if number1 >= 4:
+  print("really? What is wrong with you??")

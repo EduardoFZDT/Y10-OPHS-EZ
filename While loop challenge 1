@@ -1,0 +1,6 @@
+total = 0
+
+while total <= 50:
+  name = int(input("Enter a number:"))
+  total = total + name
+  print("The total is:", total)

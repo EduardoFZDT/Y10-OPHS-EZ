@@ -1,0 +1,15 @@
+cars = ["Honda", "Ferrari", "BMW"]
+
+print(cars)
+print()
+
+si = str(input("enter the name of the car at the 1 position:"))
+print()
+no = str(input("enter the name of the car at the 2 position:"))
+print()
+yes = str(input("Enter the name of the car at the 3 position:"))
+print()
+
+print("The first car's position is", si)
+print("The second car's position is", no)
+print("The third car's position is", yes)

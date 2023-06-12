@@ -1,0 +1,13 @@
+compnum = 50
+number = int(input("Enter a number:"))
+count = 1
+  
+if number >= 50:
+    print("Too high")
+else:
+    print("too low")
+    
+while compnum != 
+
+
+

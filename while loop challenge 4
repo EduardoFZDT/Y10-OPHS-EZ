@@ -1,0 +1,12 @@
+number = "y"
+count =0
+
+while number == "y":
+  name = str(input("Enter the name of someone you want to invite:"))
+  print(name, "Has now been invited")
+  count = count + 1
+  number =str(input("Do you wanna invite someone else?: y or n"))
+print(count)
+
+
+

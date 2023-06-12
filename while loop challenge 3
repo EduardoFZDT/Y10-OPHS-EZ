@@ -1,0 +1,14 @@
+number = int(input("Enter a number:"))
+Total = number 
+letter = ("y")
+
+
+while letter == "y":
+  number2 = int(input("Enter another number:"))
+  total2 = number + number2
+  letter = str(input("y or n"))
+print(total2)
+  
+
+
+

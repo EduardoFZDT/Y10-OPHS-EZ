@@ -1,0 +1,11 @@
+name = str(input("Enter your name"))
+number = int(input("Enter a number"))
+
+f = number
+
+for wow in range(f):
+  print(name)
+
+
+
+
